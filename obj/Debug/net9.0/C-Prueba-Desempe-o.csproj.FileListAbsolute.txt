@@ -1,0 +1,15 @@
+C:\Users\Wilson\OneDrive\Escritorio\C-Prueba-Desempe-o\bin\Debug\net9.0\C-Prueba-Desempe-o.exe
+C:\Users\Wilson\OneDrive\Escritorio\C-Prueba-Desempe-o\bin\Debug\net9.0\C-Prueba-Desempe-o.deps.json
+C:\Users\Wilson\OneDrive\Escritorio\C-Prueba-Desempe-o\bin\Debug\net9.0\C-Prueba-Desempe-o.runtimeconfig.json
+C:\Users\Wilson\OneDrive\Escritorio\C-Prueba-Desempe-o\bin\Debug\net9.0\C-Prueba-Desempe-o.dll
+C:\Users\Wilson\OneDrive\Escritorio\C-Prueba-Desempe-o\bin\Debug\net9.0\C-Prueba-Desempe-o.pdb
+C:\Users\Wilson\OneDrive\Escritorio\C-Prueba-Desempe-o\obj\Debug\net9.0\C-Prueba-Desempe-o.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson\OneDrive\Escritorio\C-Prueba-Desempe-o\obj\Debug\net9.0\C-Prueba-Desempe-o.AssemblyInfoInputs.cache
+C:\Users\Wilson\OneDrive\Escritorio\C-Prueba-Desempe-o\obj\Debug\net9.0\C-Prueba-Desempe-o.AssemblyInfo.cs
+C:\Users\Wilson\OneDrive\Escritorio\C-Prueba-Desempe-o\obj\Debug\net9.0\C-Prueba-Desempe-o.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\OneDrive\Escritorio\C-Prueba-Desempe-o\obj\Debug\net9.0\C-Prueba-Desempe-o.sourcelink.json
+C:\Users\Wilson\OneDrive\Escritorio\C-Prueba-Desempe-o\obj\Debug\net9.0\C-Prueba-Desempe-o.dll
+C:\Users\Wilson\OneDrive\Escritorio\C-Prueba-Desempe-o\obj\Debug\net9.0\refint\C-Prueba-Desempe-o.dll
+C:\Users\Wilson\OneDrive\Escritorio\C-Prueba-Desempe-o\obj\Debug\net9.0\C-Prueba-Desempe-o.pdb
+C:\Users\Wilson\OneDrive\Escritorio\C-Prueba-Desempe-o\obj\Debug\net9.0\C-Prueba-Desempe-o.genruntimeconfig.cache
+C:\Users\Wilson\OneDrive\Escritorio\C-Prueba-Desempe-o\obj\Debug\net9.0\ref\C-Prueba-Desempe-o.dll
